@@ -28,4 +28,4 @@ pydantic
 
 aiohttp
 
-tavily
+tavily-python
